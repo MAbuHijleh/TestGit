@@ -6,4 +6,9 @@ Aziza
 zaina!
 Injass
 tala
+<<<<<<< HEAD
 >>>>>>> 52cb7bcbd824548a268b2358e63460c71fa6a0ea
+=======
+oday
+qusai
+>>>>>>> 8fd8c82a912e804d9943fb3a6734e433aa0e9991
