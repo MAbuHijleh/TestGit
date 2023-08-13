@@ -1,4 +1,6 @@
 Hello From MA
+<<<<<<< HEAD
+Tariq Quraan
+=======
 Aziza
 zaina!
-Mohammed Tahayna
