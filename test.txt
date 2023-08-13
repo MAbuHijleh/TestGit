@@ -1,2 +1,9 @@
 Hello From MA
+<<<<<<< HEAD
 Tariq Quraan
+=======
+Aziza
+zaina!
+Injass
+tala
+>>>>>>> 52cb7bcbd824548a268b2358e63460c71fa6a0ea
