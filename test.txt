@@ -1,7 +1,6 @@
 Hello From MA
-<<<<<<< HEAD
 Tariq Quraan
-=======
+hassan
 Aziza
 zaina!
 Injass
@@ -11,3 +10,10 @@ oday
 qusai
 
 mohammed
+oday
+qusai
+Eyas
+ziad
+wael
+yaqeen
+ghaid
